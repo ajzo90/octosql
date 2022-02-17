@@ -29,7 +29,7 @@ require (
 	github.com/twmb/murmur3 v1.1.3
 	golang.org/x/net v0.0.0-20190620200207-3b0461eec859
 	google.golang.org/appengine v1.5.0 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
 
 go 1.13
